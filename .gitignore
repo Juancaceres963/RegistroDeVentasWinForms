@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+
+# NuGet
+packages/
+*.nupkg
+
+# Others
+*.DS_Store
+Thumbs.db
